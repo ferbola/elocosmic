@@ -1,0 +1,27 @@
+/*
+Theme Name: elorapido
+Theme URI: http://elorapido.com.br
+Description: Tema para WP
+Author: Deyvid Henrique Pereira - Agência Fuse
+Version: 1.0
+*/
+
+.form_group h3 {
+	background: url('https://www.elorapido.com.br/wp-content/themes/elorapido/assets/images/down.png') no-repeat right !important;
+}
+#price {
+	color: #f9580e;
+    font-size: 26px;
+    font-weight: bold;
+    border: 2px solid #f9580e;
+    padding: 6px 15px;
+}
+.return-to-shop {
+    display:  none !important;
+}
+.ui-loader {
+    display: none !important;
+}
+.pum-theme-2211 .pum-container, .pum-theme-lightbox .pum-container {
+    border: 0px;
+}
